@@ -10,15 +10,14 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 
 ### Links
 
--  [Solution URL]()
--  [Live Site URL]()
+-  [Live Site URL](https://mustafa-shahriar.github.io/manage-landing-page/)
 
 ### Built with
 
 - HTML5
 - CSS
 - Javascipt
-- a 11y slider
+- [a 11y slider](https://a11yslider.js.org/)
 
 ## Author
 
